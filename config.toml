@@ -1,0 +1,46 @@
+title = "Koala: být na kandidátce nestačí"
+baseURL = "https://koala.idealiste.cz"
+languageCode = "cs-cz"
+theme = "ananke"
+
+DefaultContentLanguage = "cs"
+# SectionPagesMenu = "main"
+# Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+# googleAnalytics = ""
+enableRobotsTXT = true
+
+# [languages]
+#   [languages.en]
+#     title = "My blog"
+#     weight = 1
+#     contentDir = "content/en"
+#   [languages.fr]
+#     title = "Mon blogue"
+#     weight = 2
+#     contentDir = "content/fr"
+
+# [sitemap]
+#   changefreq = "monthly"
+#   priority = 0.5
+#   filename = "sitemap.xml"
+
+[params]
+  favicon = "images/favicon.png"
+  site_logo = "images/facebook.png"
+  description = "Než přijdou na řadu politické koalice, vrhni se na Koalu! Vzdělávací kurz pro všechny, kdo se zajímají o politiku a kterým není jedno, co se v jejich obci, městu nebo zemi děje. Vrhnout se do politiky je velká výzva, tak proč si  začátek neusnadnit?"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-koala-purple"
+  featured_image = ""
+  logo = "images/hero-logo.png"
+  recent_posts_number = 2
